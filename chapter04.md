@@ -1,9 +1,5 @@
 # Chapter 4: The Carbon and the Molecular Diversity of Life
 
-\title{
-4 \\ Carbon and the Molecular Diversity of Life
-}
-
 KEY CONCEPTS
 4.1 Organic chemistry is key to the origin of life p. 57
 4.2 Carbon atoms can form diverse molecules by bonding to four other atoms p. 58
